@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="none"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".RegularChatpate">
+
+        <LinearLayout
+            android:id="@+id/regular_chatpate_1ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/regular_chatpate_2ll"
+            android:layout_below="@id/regular_chatpate_1ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/regular_chatpate_3ll"
+            android:layout_below="@id/regular_chatpate_2ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/bg_maincolor"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="98dp"
+                    android:layout_height="98dp"
+                    android:src="@drawable/mamukov1"
+                    android:layout_gravity="center_horizontal"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Onion"
+                    android:textColor="@color/colorWhite"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginTop="12dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/regular_chatpate_btn"
+            android:layout_below="@id/regular_chatpate_3ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:orientation="vertical"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/bg_maincolor">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Make Chatepate"
+                android:textSize="24sp"
+                android:textColor="@color/colorWhite"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/regular_bluetooth_open"
+            android:layout_below="@id/regular_chatpate_3ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/regular_chatpate_btn"
+            android:layout_toLeftOf="@+id/regular_chatpate_btn"
+            android:padding="16dp"
+            android:layout_margin="16dp"
+            android:text="start"
+            android:onClick="onClickBluetooth"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/bg_maincolor"/>
+
+        <Button
+            android:id="@+id/regular_bluetooth_close"
+            android:layout_below="@id/regular_chatpate_3ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/regular_chatpate_btn"
+            android:layout_toRightOf="@+id/regular_chatpate_btn"
+            android:padding="16dp"
+            android:layout_margin="16dp"
+            android:text="Stop"
+            android:onClick="stopMachine"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/bg_maincolor"/>
+
+        <TextView
+            android:id="@+id/regular_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/regular_chatpate_btn"
+            android:padding="16dp"
+            android:layout_margin="16dp"
+            android:textSize="18sp"
+            android:textColor="@color/colorChatpate"/>
+
+    </RelativeLayout>
+
+</ScrollView>
